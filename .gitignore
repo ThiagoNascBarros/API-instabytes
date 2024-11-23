@@ -1,0 +1,4 @@
+# Arquivos para que o git não suba para o repositório remoto.
+node_modules
+chaveAPI.txt
+.env
